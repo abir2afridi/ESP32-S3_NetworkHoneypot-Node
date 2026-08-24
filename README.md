@@ -8,7 +8,7 @@
 > **A Low-Cost, Portable Deception and Attack-Capture Device for IoT Networks**
 
 <div align="center">
-  <img src="https://www.electrokit.com/upload/quick/43/2f/a461_ESP32-S3-ETH-details-size.jpg" alt="System Architecture" width="700"/>
+  <img src="https://github.com/abir2afridi/ESP32-S3_NetworkHoneypot-Node/blob/main/asset/ESP32%20S3%20DevKitC1%20N16R8%20Development%20Board%20Dual%20USB%20Type%20C.png" alt="System Architecture" width="700"/>
   <p><em>ESP32-S3 Network Honeypot Node - System Architecture</em></p>
 </div>
 
