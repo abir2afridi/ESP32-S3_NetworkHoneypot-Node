@@ -676,7 +676,7 @@ esp32-honeypot-node/
 
 ## 📞 Contact
 
-- **Email**: 2331218@iub.edu.bd
+- **Email**: abir2afridi@gmail.com
 - **GitHub**: [https://github.com/abir2afridi/ESP32-S3_NetworkHoneypot-Node](https://github.com/abir2afridi/ESP32-S3_NetworkHoneypot-Node)
 
 ---
