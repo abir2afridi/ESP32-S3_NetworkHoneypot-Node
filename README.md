@@ -1,9 +1,9 @@
 # ESP32-S3 Network Honeypot Node
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Platform: ESP32-S3](https://img.shields.io/badge/Platform-ESP32--S3-blue)](https://www.espressif.com/en/products/socs/esp32-s3)
 [![Status: Prototype](https://img.shields.io/badge/Status-Prototype-orange)]()
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/esp32-honeypot-node)](https://github.com/yourusername/esp32-honeypot-node/issues)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/esp32-honeypot-node)](https://github.com/abir2afridi/esp32-honeypot-node/issues)
 
 > **A Low-Cost, Portable Deception and Attack-Capture Device for IoT Networks**
 
